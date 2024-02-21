@@ -1,0 +1,2 @@
+# Custom Bash aliases
+alias sample_alias='sample_script.sh'

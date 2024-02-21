@@ -1,0 +1,4 @@
+Host sample-server
+    HostName <hostname>
+    Port 22
+    User <user>

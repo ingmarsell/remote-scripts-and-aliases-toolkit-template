@@ -1,0 +1,2 @@
+#Custom remote aliases
+alias sample_remote_alias='date'
