@@ -22,13 +22,13 @@ This template is designed to simplify and automate the process of remotely conne
 1. **Clone the Repository**: Start by cloning this template repository to your local machine.
 
     ```bash
-    git clone <template-repository-url>
+    git clone git@github.com:ingmarsell/remote-scripts-and-aliases-toolkit-template.git
     ```
 
 2. **Run the Installation Script**: Navigate to the cloned directory and execute the `install.sh` script. This script sets up the necessary configurations, scripts, and aliases on your system.
 
     ```bash
-    cd <cloned-template-directory>
+    cd remote-scripts-and-aliases-toolkit-template
     ./install.sh
     ```
 
